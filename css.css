@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 1000px;
+    max-height: 700px;
+    justify-content: center;
+    /* height: 100vh; */
+    background: rgba(2, 2, 2);
+}
+
+p{
+    font-size: 15px;
+    line-height: 1.0;
+    text-align: justify;
+    /* background-size: auto; */
+    /* -webkit-background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background: url(hon.png);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255,255,0);
+}
